@@ -1,13 +1,15 @@
-# Rosario feeds – 2026-11-03T14:46+00:00
+# Rosario feeds – 2026-11-03T15:38+00:00
 
 - mr_exemptions_large.csv: 0 rows, 0 KB
-- municipal_award_candidates.csv: 0 rows, 0 KB
+- municipal_award_candidates.csv: 11 rows, 71 KB
 - municipal_awards_matched.csv: 0 rows, 0 KB
 - municipal_coverage.csv: 8 rows, 1 KB
-- municipal_decisions.csv: 0 rows, 0 KB
-- municipal_documents.csv: 8 rows, 3 KB
-- municipal_links_sample.csv: 206 rows, 48 KB
-- municipal_sources_status.csv: 20 rows, 2 KB
+- municipal_debug_links.csv: 21061 rows, 6013 KB
+- municipal_decisions.csv: 100 rows, 537 KB
+- municipal_documents.csv: 33 rows, 16 KB
+- municipal_links_sample.csv: 201 rows, 44 KB
+- municipal_report.csv: 8 rows, 2 KB
+- municipal_sources_status.csv: 33 rows, 6 KB
 - municipal_tenders_awaiting.csv: 0 rows, 0 KB
 - municipal_tenders_large_open.csv: 0 rows, 0 KB
 - registrar_changes_90d_all.csv: 1840 rows, 379 KB
@@ -43,5 +45,20 @@
 
 ## municipal
 ```
-{'municipal_decisions': 0, 'municipal_award_candidates': 0, 'municipal_documents': 8, 'municipal_coverage': 8, 'municipal_links_sample': 206, 'municipal_sources_status': 20}
+{'municipal_decisions': 100, 'municipal_award_candidates': 11, 'municipal_documents': 33, 'municipal_coverage': 8, 'municipal_links_sample': 201, 'municipal_report': 8, 'municipal_debug_links': 21061, 'municipal_sources_status': 33}
 ```
+
+## דוח רשויות (municipal_report)
+
+תקינות: 7 מתוך 8 · חסומות: 0 · בלי דף פרוטוקולים: 1
+
+| רשות | מצב | נקראו | החלטות | פרוטוקול אחרון | הערה |
+|---|---|---|---|---|---|
+| פתח תקווה (cloud) | תקין | 5 | 0 | 2024-02-29 | נקראו 5 פרוטוקולים, 0 החלטות (לא חולצו החלטות – לבדוק פורמט) |
+| תל אביב-יפו (cloud) | תקין | 25 | 100 | 2026-10-28 | נקראו 25 פרוטוקולים, 100 החלטות |
+| אשקלון (cloud) | תקין – אין חדש | 0 | 0 | 2026-10-19 | הפרוטוקול האחרון: 2026-10-19 |
+| הרשות לפיתוח ירושלים (cloud) | תקין – אין חדש | 0 | 0 | 2026-10-01 | הפרוטוקול האחרון: 2026-10-01 |
+| חיפה (cloud) | תקין – אין חדש | 0 | 0 | 2026-09-09 | הפרוטוקול האחרון: 2026-09-09 |
+| מודיעין-מכבים-רעות (cloud) | תקין – אין חדש | 0 | 0 | 2026-02-04 | הפרוטוקול האחרון: 2026-02-04 |
+| רהט (cloud) | תקין – אין חדש | 0 | 0 | 2026-10-01 | הפרוטוקול האחרון: 2026-10-01 |
+| אחוזות החוף (cloud) | לא נמצא דף פרוטוקולים | 0 | 0 |  | הדפים נטענו אבל אין בהם מסמכים של ועדת מכרזים – לבדוק כתובת/להוסיף auto |
