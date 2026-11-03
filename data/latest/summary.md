@@ -1,4 +1,4 @@
-# Rosario feeds – 2026-11-03T08:20+00:00
+# Rosario feeds – 2026-11-03T08:33+00:00
 
 - mr_exemptions_large.csv: 0 rows, 0 KB
 - municipal_award_candidates.csv: 0 rows, 0 KB
@@ -6,6 +6,7 @@
 - municipal_coverage.csv: 10 rows, 1 KB
 - municipal_decisions.csv: 0 rows, 0 KB
 - municipal_documents.csv: 0 rows, 0 KB
+- municipal_links_sample.csv: 256 rows, 62 KB
 - municipal_sources_status.csv: 18 rows, 2 KB
 - municipal_tenders_awaiting.csv: 0 rows, 0 KB
 - municipal_tenders_large_open.csv: 0 rows, 0 KB
@@ -32,7 +33,7 @@
 
 ## mr
 ```
-{'pages': 6, 'notices_listed': 120, 'details_read': 64, 'stopped': '', 'mr_exemptions_large': 0}
+{'pages': 2, 'notices_listed': 40, 'details_read': 1, 'stopped': '', 'mr_exemptions_large': 0}
 ```
 
 ## watchlist
@@ -42,5 +43,5 @@
 
 ## municipal
 ```
-{'municipal_decisions': 0, 'municipal_award_candidates': 0, 'municipal_documents': 0, 'municipal_coverage': 10, 'municipal_sources_status': 18}
+{'municipal_decisions': 0, 'municipal_award_candidates': 0, 'municipal_documents': 0, 'municipal_coverage': 10, 'municipal_links_sample': 256, 'municipal_sources_status': 18}
 ```
