@@ -1,11 +1,11 @@
-# Rosario feeds – 2026-11-03T13:02+00:00
+# Rosario feeds – 2026-11-03T14:05+00:00
 
 - mr_exemptions_large.csv: 0 rows, 0 KB
 - municipal_award_candidates.csv: 0 rows, 0 KB
 - municipal_awards_matched.csv: 0 rows, 0 KB
 - municipal_coverage.csv: 25 rows, 1 KB
 - municipal_decisions.csv: 0 rows, 0 KB
-- municipal_documents.csv: 8 rows, 4 KB
+- municipal_documents.csv: 8 rows, 3 KB
 - municipal_links_sample.csv: 256 rows, 61 KB
 - municipal_sources_status.csv: 46 rows, 5 KB
 - municipal_tenders_awaiting.csv: 0 rows, 0 KB
