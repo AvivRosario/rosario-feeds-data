@@ -1,4 +1,4 @@
-# Rosario feeds – 2026-11-03T08:33+00:00
+# Rosario feeds – 2026-11-03T08:46+00:00
 
 - mr_exemptions_large.csv: 0 rows, 0 KB
 - municipal_award_candidates.csv: 0 rows, 0 KB
