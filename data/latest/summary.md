@@ -1,12 +1,12 @@
-# Rosario feeds – 2026-11-04T09:29+00:00
+# Rosario feeds – 2026-11-04T11:04+00:00
 
 - mr_exemptions_large.csv: 0 rows, 0 KB
 - municipal_award_candidates.csv: 0 rows, 0 KB
 - municipal_awards_matched.csv: 0 rows, 0 KB
 - municipal_coverage.csv: 8 rows, 1 KB
 - municipal_debug_links.csv: 15873 rows, 4657 KB
-- municipal_decisions.csv: 6 rows, 31 KB
-- municipal_documents.csv: 33 rows, 12 KB
+- municipal_decisions.csv: 3 rows, 12 KB
+- municipal_documents.csv: 15 rows, 6 KB
 - municipal_links_sample.csv: 210 rows, 53 KB
 - municipal_report.csv: 8 rows, 3 KB
 - municipal_sources_status.csv: 30 rows, 5 KB
@@ -35,17 +35,17 @@
 
 ## mr
 ```
-{'pages': 3, 'notices_listed': 60, 'details_read': 10, 'stopped': '', 'mr_exemptions_large': 0}
+{'pages': 4, 'notices_listed': 80, 'details_read': 9, 'stopped': '', 'mr_exemptions_large': 0}
 ```
 
 ## watchlist
 ```
-{'watchlist_items': 80, 'watchlist_hp_resolved_now': 0, 'watchlist_with_events': 0}
+{'watchlist_items': 105, 'watchlist_hp_resolved_now': 0, 'watchlist_with_events': 1}
 ```
 
 ## municipal
 ```
-{'municipal_decisions': 6, 'municipal_award_candidates': 0, 'municipal_documents': 33, 'municipal_coverage': 8, 'municipal_links_sample': 210, 'municipal_report': 8, 'municipal_debug_links': 15873, 'municipal_sources_status': 30}
+{'municipal_decisions': 3, 'municipal_award_candidates': 0, 'municipal_documents': 15, 'municipal_coverage': 8, 'municipal_links_sample': 210, 'municipal_report': 8, 'municipal_debug_links': 15873, 'municipal_sources_status': 30}
 ```
 
 ## דוח רשויות (municipal_report)
@@ -54,8 +54,8 @@
 
 | רשות | מצב | נקראו | החלטות | פרוטוקול אחרון | הערה |
 |---|---|---|---|---|---|
-| מודיעין-מכבים-רעות (cloud) | תקין | 25 | 4 |  | 3 פרוטוקולים חדשים נותחו, 4 החלטות (דולגו: ישנים 21, לא פרוטוקול 1) |
-| פתח תקווה (cloud) | תקין | 4 | 2 | 2026-10-15 | 1 פרוטוקולים חדשים נותחו, 2 החלטות (דולגו: ישנים 3) |
+| מודיעין-מכבים-רעות (cloud) | תקין | 7 | 2 |  | 1 פרוטוקולים חדשים נותחו, 2 החלטות (דולגו: ישנים 6) |
+| פתח תקווה (cloud) | תקין | 4 | 1 | 2026-10-15 | 1 פרוטוקולים חדשים נותחו, 1 החלטות (דולגו: ישנים 3) |
 | אשקלון (cloud) | תקין – אין חדש | 0 | 0 | 2026-10-19 | הפרוטוקול האחרון: 2026-10-19 |
 | הרשות לפיתוח ירושלים (cloud) | תקין – אין חדש | 0 | 0 | 2026-10-01 | הפרוטוקול האחרון: 2026-10-01 |
 | חיפה (cloud) | תקין – אין חדש | 0 | 0 | 2026-09-09 | הפרוטוקול האחרון: 2026-09-09 |
