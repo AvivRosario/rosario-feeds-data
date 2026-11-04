@@ -1,0 +1,2 @@
+﻿table,columns_or_error
+contract_spending,"amount_contracts, budget_code, budget_title, buyer_description, company_id, contract_is_active, currency, end_date, entity_id, entity_kind, entity_name, executed, exemption_reason, explanation, manof_excerpts, manof_ref, max_year, min_year, order_date, order_id, payments, publisher, publisher_key, publisher_name, purchase_method, purchasing_unit, purchasing_unit_code, purpose, resolved_budget_codes, score, sensitive_order, start_date, supplier_code, supplier_name, supplier_name_fingerprint, tender_key, tender_key_simple, volume"
