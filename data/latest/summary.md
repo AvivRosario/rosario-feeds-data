@@ -1,6 +1,6 @@
-# Rosario feeds – 2026-11-07T12:40+00:00
+# Rosario feeds – 2026-11-08T07:57+00:00
 
-- mr_exemptions_large.csv: 0 rows, 0 KB
+- mr_exemptions_large.csv: 1 rows, 0 KB
 - municipal_award_candidates.csv: 0 rows, 0 KB
 - municipal_awards_matched.csv: 0 rows, 0 KB
 - municipal_coverage.csv: 8 rows, 1 KB
@@ -19,30 +19,30 @@
 - registrar_charges_90d_frequent.csv: 82 rows, 10 KB
 - registrar_insolvency_90d.csv: 63 rows, 15 KB
 - registrar_mergers_90d.csv: 3 rows, 1 KB
-- registrar_new_this_week.csv: 1838 rows, 379 KB
+- registrar_new_this_week.csv: 0 rows, 0 KB
 - registrar_share_transfers_7d.csv: 15 rows, 3 KB
 - registrar_signals.csv: 200 rows, 36 KB
-- rmi_winners_90d.csv: 376 rows, 50 KB
-- rmi_winners_agg.csv: 364 rows, 32 KB
+- rmi_winners_90d.csv: 376 rows, 49 KB
+- rmi_winners_agg.csv: 364 rows, 31 KB
 
 ## registrar
 ```
-{'registrar_new_this_week': 1838, 'registrar_signals': 200, 'batch_dates': {'2026-08-30': 657, '2026-08-31': 766, '2026-09-30': 295, '2026-10-30': 100, '2026-10-31': 20}, 'registrar_charges_7d': 17, 'registrar_charges_90d_frequent': 82, 'registrar_share_transfers_7d': 15, 'registrar_insolvency_90d': 63, 'registrar_mergers_90d': 3, 'registrar_changes_90d_all': 1838, 'window_since': '2026-08-09', 'generated': '2026-11-07', 'latest_batch_date': '2026-10-31', 'note': 'dates are month-end batch dates, not event dates; verify per company on taagidim'}
+{'registrar_new_this_week': 0, 'registrar_signals': 200, 'batch_dates': {'2026-08-30': 657, '2026-08-31': 766, '2026-09-30': 295, '2026-10-30': 100, '2026-10-31': 20}, 'registrar_charges_7d': 17, 'registrar_charges_90d_frequent': 82, 'registrar_share_transfers_7d': 15, 'registrar_insolvency_90d': 63, 'registrar_mergers_90d': 3, 'registrar_changes_90d_all': 1838, 'window_since': '2026-08-10', 'generated': '2026-11-08', 'latest_batch_date': '2026-10-31', 'note': 'dates are month-end batch dates, not event dates; verify per company on taagidim'}
 ```
 
 ## rmi
 ```
-{'rmi_tenders_scanned': 64, 'rmi_winners_90d': 376, 'rmi_winners_agg': 364, 'rmi_new_this_week': 376}
+{'rmi_tenders_scanned': 64, 'rmi_winners_90d': 376, 'rmi_winners_agg': 364, 'rmi_new_this_week': 2}
 ```
 
 ## mr
 ```
-{'pages': 4, 'notices_listed': 80, 'details_read': 42, 'stopped': '', 'mr_exemptions_large': 0}
+{'pages': 3, 'notices_listed': 60, 'details_read': 34, 'stopped': '', 'mr_exemptions_large': 1}
 ```
 
 ## watchlist
 ```
-{'watchlist_items': 105, 'watchlist_hp_resolved_now': 0, 'watchlist_with_events': 1}
+{'watchlist_items': 135, 'watchlist_hp_resolved_now': 0, 'watchlist_with_events': 5}
 ```
 
 ## municipal
@@ -77,11 +77,7 @@
 | הרשות לפיתוח ירושלים (cloud) | תקין – אין חדש | 0 | 0 | 2026-10-01 | הפרוטוקול האחרון: 2026-10-01 |
 | חיפה (cloud) | תקין – אין חדש | 0 | 0 | 2026-09-09 | הפרוטוקול האחרון: 2026-09-09 |
 | מודיעין-מכבים-רעות (cloud) | תקין – אין חדש | 0 | 0 |  | הפרוטוקול האחרון: ללא תאריך |
-| נתניה (local) | תקין – אין חדש | 0 | 0 | 2026-07-13 | הפרוטוקול האחרון: 2026-07-13 |
-| עפולה (local) | תקין – אין חדש | 25 | 0 | 2026-11-02 | 5 פרוטוקולים חדשים נותחו, 0 החלטות (דולגו: ישנים 20) – לבדוק פורמט |
-| פתח תקווה (cloud) | תקין – אין חדש | 2 | 0 | 2026-10-15 | 0 פרוטוקולים חדשים נותחו, 0 החלטות (דולגו: ישנים 2) |
-| ראש העין (local) | תקין – אין חדש | 0 | 0 | 2026-10-25 | הפרוטוקול האחרון: 2026-10-25 |
-| ראשון לציון (local) | תקין – אין חדש | 11 | 0 | 2026-10-25 | 0 פרוטוקולים חדשים נותחו, 0 החלטות (דולגו: ישנים 11) |
+| פתח תקווה (cloud) | תקין – אין חדש | 1 | 0 | 2026-10-15 | 0 פרוטוקולים חדשים נותחו, 0 החלטות (דולגו: ישנים 1) |
 | רהט (cloud) | תקין – אין חדש | 0 | 0 | 2026-10-01 | הפרוטוקול האחרון: 2026-10-01 |
 | רחובות (local) | תקין – אין חדש | 0 | 0 | 2026-06-16 | הפרוטוקול האחרון: 2026-06-16 |
 | רמת גן (local) | תקין – אין חדש | 0 | 0 |  | הפרוטוקול האחרון: ללא תאריך |
