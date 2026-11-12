@@ -1,103 +1,70 @@
-# Rosario feeds – 2026-11-08T07:57+00:00
+# Rosario feeds – 2026-11-12T20:47+00:00
 
-- mr_exemptions_large.csv: 1 rows, 0 KB
-- municipal_award_candidates.csv: 0 rows, 0 KB
+- mr_exemptions_large.csv: 0 rows, 0 KB
+- municipal_award_candidates.csv: 2 rows, 12 KB
 - municipal_awards_matched.csv: 0 rows, 0 KB
 - municipal_coverage.csv: 8 rows, 1 KB
-- municipal_debug_links.csv: 15897 rows, 4664 KB
-- municipal_decisions.csv: 0 rows, 0 KB
-- municipal_documents.csv: 8 rows, 3 KB
-- municipal_links_sample.csv: 255 rows, 63 KB
+- municipal_debug_links.csv: 15901 rows, 4666 KB
+- municipal_decisions.csv: 18 rows, 104 KB
+- municipal_documents.csv: 19 rows, 7 KB
+- municipal_links_sample.csv: 96 rows, 23 KB
 - municipal_report.csv: 8 rows, 3 KB
 - municipal_sources_status.csv: 30 rows, 5 KB
 - municipal_tenders_awaiting.csv: 0 rows, 0 KB
 - municipal_tenders_large_open.csv: 0 rows, 0 KB
 - obudget_contracts_large.csv: 400 rows, 121 KB
 - obudget_probe.csv: 1 rows, 1 KB
-- registrar_changes_90d_all.csv: 1838 rows, 379 KB
+- registrar_changes_90d_all.csv: 1834 rows, 378 KB
 - registrar_charges_7d.csv: 17 rows, 4 KB
 - registrar_charges_90d_frequent.csv: 82 rows, 10 KB
 - registrar_insolvency_90d.csv: 63 rows, 15 KB
 - registrar_mergers_90d.csv: 3 rows, 1 KB
 - registrar_new_this_week.csv: 0 rows, 0 KB
-- registrar_share_transfers_7d.csv: 15 rows, 3 KB
+- registrar_share_transfers_7d.csv: 14 rows, 3 KB
 - registrar_signals.csv: 200 rows, 36 KB
-- rmi_winners_90d.csv: 376 rows, 49 KB
-- rmi_winners_agg.csv: 364 rows, 31 KB
+- rmi_winners_90d.csv: 384 rows, 51 KB
+- rmi_winners_agg.csv: 372 rows, 32 KB
 
 ## registrar
 ```
-{'registrar_new_this_week': 0, 'registrar_signals': 200, 'batch_dates': {'2026-08-30': 657, '2026-08-31': 766, '2026-09-30': 295, '2026-10-30': 100, '2026-10-31': 20}, 'registrar_charges_7d': 17, 'registrar_charges_90d_frequent': 82, 'registrar_share_transfers_7d': 15, 'registrar_insolvency_90d': 63, 'registrar_mergers_90d': 3, 'registrar_changes_90d_all': 1838, 'window_since': '2026-08-10', 'generated': '2026-11-08', 'latest_batch_date': '2026-10-31', 'note': 'dates are month-end batch dates, not event dates; verify per company on taagidim'}
+{'registrar_new_this_week': 0, 'registrar_signals': 200, 'batch_dates': {'2026-08-30': 656, '2026-08-31': 764, '2026-09-30': 295, '2026-10-30': 100, '2026-10-31': 19}, 'registrar_charges_7d': 17, 'registrar_charges_90d_frequent': 82, 'registrar_share_transfers_7d': 14, 'registrar_insolvency_90d': 63, 'registrar_mergers_90d': 3, 'registrar_changes_90d_all': 1834, 'window_since': '2026-08-14', 'generated': '2026-11-12', 'latest_batch_date': '2026-10-31', 'note': 'dates are month-end batch dates, not event dates; verify per company on taagidim'}
 ```
 
 ## rmi
 ```
-{'rmi_tenders_scanned': 64, 'rmi_winners_90d': 376, 'rmi_winners_agg': 364, 'rmi_new_this_week': 2}
+{'rmi_tenders_scanned': 65, 'rmi_winners_90d': 384, 'rmi_winners_agg': 372, 'rmi_new_this_week': 8}
 ```
 
 ## mr
 ```
-{'pages': 3, 'notices_listed': 60, 'details_read': 34, 'stopped': '', 'mr_exemptions_large': 1}
+{'pages': 17, 'notices_listed': 340, 'details_read': 194, 'stopped': '', 'mr_exemptions_large': 0}
 ```
 
 ## watchlist
 ```
-{'watchlist_items': 135, 'watchlist_hp_resolved_now': 0, 'watchlist_with_events': 5}
+{'watchlist_items': 444, 'watchlist_active': 289, 'watchlist_hp_resolved_now': 80, 'watchlist_with_events': 8, 'watchlist_with_feed_hits': 9}
 ```
 
 ## municipal
 ```
-{'municipal_decisions': 0, 'municipal_award_candidates': 0, 'municipal_documents': 8, 'municipal_coverage': 8, 'municipal_links_sample': 255, 'municipal_report': 8, 'municipal_debug_links': 15897, 'municipal_sources_status': 30}
+{'municipal_decisions': 18, 'municipal_award_candidates': 2, 'municipal_documents': 19, 'municipal_coverage': 8, 'municipal_links_sample': 96, 'municipal_report': 8, 'municipal_debug_links': 15901, 'municipal_sources_status': 30}
 ```
 
 ## דוח רשויות (municipal_report)
 
-תקינות: 36 מתוך 38 · חסומות: 1 · בלי דף פרוטוקולים: 1
+תקינות: 7 מתוך 8 · חסומות: 0 · בלי דף פרוטוקולים: 1
 
 | רשות | מצב | נקראו | החלטות | פרוטוקול אחרון | הערה |
 |---|---|---|---|---|---|
-| אילת (local) | תקין | 12 | 9 | 2026-08-30 | 9 פרוטוקולים חדשים נותחו, 9 החלטות (דולגו: לא פרוטוקול 3) |
-| חדרה (local) | תקין | 25 | 7 | 2026-05-18 | 1 פרוטוקולים חדשים נותחו, 6 החלטות (דולגו: ישנים 1, ישיבות מועצה 15, סרוקים ל-OCR 8) · +1  |
-| יבנה (local) | תקין | 2 | 1 | 2026-11-05 | 1 פרוטוקולים חדשים נותחו, 1 החלטות (דולגו: ישנים 1) |
-| נהריה (local) | תקין | 18 | 0 | 2026-10-18 | 3 פרוטוקולים חדשים נותחו, 0 החלטות (דולגו: ישיבות מועצה 14, סרוקים ל-OCR 1) – לבדוק פורמט |
-| עכו (local) | תקין | 20 | 0 | 2026-10-13 | 0 פרוטוקולים חדשים נותחו, 0 החלטות (דולגו: ישנים 8, ישיבות מועצה 9, סרוקים ל-OCR 8) |
-| עפולה (local) | תקין | 25 | 0 | 2026-11-02 | 0 פרוטוקולים חדשים נותחו, 0 החלטות (דולגו: ישנים 7, סרוקים ל-OCR 18) |
-| ראשון לציון (local) | תקין | 23 | 0 | 2026-10-25 | 0 פרוטוקולים חדשים נותחו, 0 החלטות (דולגו: ישנים 19, סרוקים ל-OCR 6) |
-| רמת השרון (local) | תקין | 8 | 1 | 2026-11-01 | 1 פרוטוקולים חדשים נותחו, 1 החלטות (דולגו: לא פרוטוקול 7) |
-| אשדוד (local) | תקין – אין חדש | 0 | 0 | 2025-12-28 | הפרוטוקול האחרון: 2025-12-28 |
+| הרשות לפיתוח ירושלים (cloud) | תקין | 2 | 2 | 2026-11-01 | 2 פרוטוקולים חדשים נותחו, 2 החלטות |
+| מודיעין-מכבים-רעות (cloud) | תקין | 2 | 4 |  | 2 פרוטוקולים חדשים נותחו, 4 החלטות |
+| רהט (cloud) | תקין | 3 | 3 | 2026-11-01 | 3 פרוטוקולים חדשים נותחו, 3 החלטות |
+| תל אביב-יפו (cloud) | תקין | 4 | 9 | 2026-10-28 | 4 פרוטוקולים חדשים נותחו, 9 החלטות |
 | אשקלון (cloud) | תקין – אין חדש | 0 | 0 | 2026-10-19 | הפרוטוקול האחרון: 2026-10-19 |
-| באר שבע (local) | תקין – אין חדש | 0 | 0 | 2026-10-29 | הפרוטוקול האחרון: 2026-10-29 |
-| בית שמש (local) | תקין – אין חדש | 23 | 0 | 2026-10-25 | 0 פרוטוקולים חדשים נותחו, 0 החלטות (דולגו: לא פרוטוקול 3, ישיבות מועצה 22) |
-| בני ברק (local) | תקין – אין חדש | 0 | 0 | 2026-11-01 | הפרוטוקול האחרון: 2026-11-01 |
-| בת ים (local) | תקין – אין חדש | 0 | 0 | 2026-09-02 | הפרוטוקול האחרון: 2026-09-02 |
-| גבעתיים (local) | תקין – אין חדש | 0 | 0 | 2026-10-21 | הפרוטוקול האחרון: 2026-10-21 |
-| הוד השרון (local) | תקין – אין חדש | 0 | 0 | 2026-11-01 | הפרוטוקול האחרון: 2026-11-01 |
-| החברה הכלכלית רמת גן (local) | תקין – אין חדש | 0 | 0 |  | הפרוטוקול האחרון: ללא תאריך |
-| הרצליה (local) | תקין – אין חדש | 0 | 0 | 2026-09-15 | הפרוטוקול האחרון: 2026-09-15 |
-| הרשות לפיתוח ירושלים (cloud) | תקין – אין חדש | 0 | 0 | 2026-10-01 | הפרוטוקול האחרון: 2026-10-01 |
-| חולון (local) | תקין – אין חדש | 0 | 0 | 2026-10-07 | הפרוטוקול האחרון: 2026-10-07 |
 | חיפה (cloud) | תקין – אין חדש | 0 | 0 | 2026-09-09 | הפרוטוקול האחרון: 2026-09-09 |
-| כפר סבא (local) | תקין – אין חדש | 0 | 0 | 2026-08-06 | הפרוטוקול האחרון: 2026-08-06 |
-| לוד (local) | תקין – אין חדש | 0 | 0 | 2026-10-18 | הפרוטוקול האחרון: 2026-10-18 |
-| מודיעין-מכבים-רעות (cloud) | תקין – אין חדש | 0 | 0 |  | הפרוטוקול האחרון: ללא תאריך |
-| נס ציונה (local) | תקין – אין חדש | 0 | 0 | 2026-11-04 | הפרוטוקול האחרון: 2026-11-04 |
-| נצרת (local) | תקין – אין חדש | 0 | 0 |  | הפרוטוקול האחרון: ללא תאריך |
-| נתניה (local) | תקין – אין חדש | 0 | 0 | 2026-07-13 | הפרוטוקול האחרון: 2026-07-13 |
 | פתח תקווה (cloud) | תקין – אין חדש | 1 | 0 | 2026-10-15 | 0 פרוטוקולים חדשים נותחו, 0 החלטות (דולגו: ישנים 1) |
-| קריית גת (local) | תקין – אין חדש | 0 | 0 | 2026-09-03 | הפרוטוקול האחרון: 2026-09-03 |
-| ראש העין (local) | תקין – אין חדש | 0 | 0 | 2026-10-25 | הפרוטוקול האחרון: 2026-10-25 |
-| רהט (cloud) | תקין – אין חדש | 0 | 0 | 2026-10-01 | הפרוטוקול האחרון: 2026-10-01 |
-| רחובות (local) | תקין – אין חדש | 0 | 0 | 2026-06-16 | הפרוטוקול האחרון: 2026-06-16 |
-| רמלה (local) | תקין – אין חדש | 8 | 0 | 2026-09-23 | 0 פרוטוקולים חדשים נותחו, 0 החלטות (דולגו: ישנים 8) |
-| רמת גן (local) | תקין – אין חדש | 0 | 0 |  | הפרוטוקול האחרון: ללא תאריך |
-| רעננה (local) | תקין – אין חדש | 0 | 0 | 2026-11-01 | 0 פרוטוקולים חדשים נותחו, 0 החלטות |
-| תל אביב-יפו (cloud) | תקין – אין חדש | 0 | 0 | 2026-10-28 | הפרוטוקול האחרון: 2026-10-28 |
 | אחוזות החוף (cloud) | לא נמצא דף פרוטוקולים | 0 | 0 |  | הדפים נטענו אבל אין בהם מסמכים של ועדת מכרזים – לבדוק כתובת/להוסיף auto |
-| ירושלים (local) | חסום | 0 | 0 |  | האתר מחזיר דף חסימה (Access Denied) |
 
-## מקורות ארציים מהמחשב (local)
-
-- דוחות ההתקשרויות של gov.il ומכרזיה: חוסמים גישה אוטומטית (403) גם מחיבור ביתי – לא מופעלים.
-- **התקשרויות ממשלתיות גדולות (המפתח התקציבי – next.obudget.org)** – תקין: {'table': 'contract_spending', 'obudget_contracts_large': 400, 'columns_seen': {'contract_spending': 38}}
-
-(עודכן 2026-11-08 10:47)
+## energy
+- municipal_energy.csv: 0 rows (no energy items found)
+- obudget_contracts_large.csv: energy=yes 0 of 400
